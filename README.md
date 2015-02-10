@@ -6,6 +6,6 @@
 <title>hello world</title>
 </head>
 <body>
-<p>hello world</p>
+<strong>hello world</strong>
 </body>
 </html>
